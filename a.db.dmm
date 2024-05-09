@@ -1,0 +1,93 @@
+{
+	"tables": {},
+	"relations": {},
+	"notes": {},
+	"lines": {},
+	"model": {
+		"name": "praject diagram",
+		"id": "df2aa97c-58e4-4ae4-8a87-13e2d0001017",
+		"activeDiagram": "9e940057-6105-48dd-ad85-570f4c075bc0",
+		"desc": "",
+		"path": "",
+		"type": "SQLITE",
+		"version": 1,
+		"parentTableInFkCols": true,
+		"caseConvention": "under",
+		"replaceSpace": "_",
+		"color": "transparent",
+		"sideSelections": true,
+		"isDirty": false,
+		"storedin": {
+			"major": 7,
+			"minor": 2,
+			"extra": 2
+		},
+		"laststoredin": {
+			"major": 7,
+			"minor": 2,
+			"extra": 2
+		},
+		"writeFileParam": false,
+		"authorName": "",
+		"companyDetails": "",
+		"companyUrl": "",
+		"def_coltopk": true,
+		"sqlSettings": {
+			"wrapLines": true,
+			"wrapOffset": 80,
+			"indent": true,
+			"indentationString": "spaces",
+			"indentationSize": 2,
+			"limitItemsOnLine": true,
+			"maxListItemsOnLine": 3,
+			"statementDelimiter": ";",
+			"routineDelimiter": ";",
+			"keywordCase": "upper",
+			"identiferCase": "original"
+		},
+		"lastSaved": "Wed Aug 09 2023 22:11:33 GMT+0545 (Nepal Time)"
+	},
+	"otherObjects": {},
+	"diagrams": {
+		"9e940057-6105-48dd-ad85-570f4c075bc0": {
+			"name": "Main Diagram",
+			"description": "",
+			"id": "9e940057-6105-48dd-ad85-570f4c075bc0",
+			"keysgraphics": true,
+			"linegraphics": "detailed",
+			"zoom": 1,
+			"background": "transparent",
+			"lineColor": "transparent",
+			"isOpen": true,
+			"main": true,
+			"diagramItems": {},
+			"scroll": {
+				"x": 0,
+				"y": 0
+			},
+			"type": "erd",
+			"showHorizontal": true,
+			"showDescriptions": true,
+			"showIndicators": true,
+			"showProgress": true,
+			"lineWidth": "2",
+			"boxSize": "0",
+			"showIndicatorCaptions": true,
+			"showEstimatedSize": false,
+			"showSchemaContainer": true,
+			"showEmbeddedInParents": true,
+			"showCardinalityCaptions": true,
+			"showColumns": true,
+			"showColumnDataTypes": true,
+			"showSampleData": false,
+			"showTableIndexes": true,
+			"showTableDescriptions": false,
+			"showRelations": true,
+			"backgroundImage": "na",
+			"descriptionsColor": "transparent"
+		}
+	},
+	"order": [],
+	"collapsedTreeItems": [],
+	"reverseStats": {}
+}
